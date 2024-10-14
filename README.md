@@ -1,3 +1,3 @@
-# til ( today i learned ) 
+# til ( Today I Learned ) 
 
 
